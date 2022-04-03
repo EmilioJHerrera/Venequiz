@@ -1,5 +1,12 @@
 const data =[
     {
+        "id":0,
+        "pregunta":"¿Cómo se le dice a una persona que le cuesta compartir lo que tiene?",
+        "respuestas" :["Pichirre","Chimbo","Malo","Arrecho"],
+        "respuesta":"Pichirre",
+        
+    },
+    {
         "id":1,
         "pregunta":"¿Cómo se le dice a una persona perezosa?",
         "respuestas" :["Achantao","Malaya","Agarrao","Arrecho"],
@@ -8,7 +15,7 @@ const data =[
     },
     {
         "id":2,
-        "pregunta":"¿Cómo se le dice a una persona pichirre?",
+        "pregunta":"¿Cómo se le dice a una persona tacaña?",
         "respuestas" :["Achantao","Malaya","Agarrao","Arrecho"],
         "respuesta":"Agarrao",
         
@@ -29,9 +36,9 @@ const data =[
     },
     {
         "id":5,
-        "pregunta":"¿Cómo se le dice a una persona aletargado, sin falta de ánimo.?",
-        "respuestas" :["Ahuevoneado"," Agarrao","Alto Pana","Marico"],
-        "respuesta":"Ahuevoneado",
+        "pregunta":"¿Cómo se le dice a agrupado?",
+        "respuestas" :["Arremangao","Amuñuñao","Arrepujao","Enfotao"],
+        "respuesta":"Amuñuñao",
         
     },
     {
@@ -79,16 +86,112 @@ const data =[
     {
         "id":12,
         "pregunta":"¿Cómo se le dice a una rumor o noticia interesante",
-        "respuestas" :["Noticion","Beta","Embuste","Chamuyo"],
+        "respuestas" :["Noticion","Beta","Embuste","Bernardo"],
         "respuesta":"Beta",
         
     },
     {
         "id":13,
         "pregunta":"¿Cómo se le dice a una mentira",
-        "respuestas" :["Noticion","Beta","Embuste","Chamuyo"],
+        "respuestas" :["Noticion","Beta","Embuste","Chimbo"],
         "respuesta":"Embuste",
         
+    },
+    {
+        "id":14,
+        "pregunta":"¿Cómo se le dice a una mujer mal viviente o algo que causa repulsión o está mal hecho.",
+        "respuestas" :["Chimba","Bimbo","Bicha","Chula"],
+        "respuesta":"Bicha",
+    },
+    {
+        "id":15,
+        "pregunta":"¿Cómo se le dice a un hombre mal viviente pero que no llega al nivel de delincuente.",
+        "respuestas" :["Chimbo","Bimbo","Bicho","Chulo"],
+        "respuesta":"Bicho",
+    },
+    {
+        "id":16,
+        "pregunta":"¿Cómo se le dice a una cerveza",
+        "respuestas" :["Chervechita","Chela","Birra","Trago"],
+        "respuesta":"Birra",
+    },
+    {
+        "id":17,
+        "pregunta":"¿Cómo se le dice a una persona excitada sexualmente o que es muy propenso a estarlo",
+        "respuestas" :["Cachuo","Mano pelua","Birriondo","Excitación eterna"],
+        "respuesta":"Birriondo",
+    },
+    {
+        "id":18,
+        "pregunta":"¿Cómo se le dice al desorden, ruido, relajo",
+        "respuestas" :["Relajación","Bochinche","Birriondo","Despilfarro"],
+        "respuesta":"Bochinche",
+    },
+    {
+        "id":19,
+        "pregunta":"¿Cómo se le dice a la fiesta, reunión, agasajo",
+        "respuestas" :["Bonche","Boliche","Bernáculo","Betulio"],
+        "respuesta":"Bonche",
+    },
+    {
+        "id":20,
+        "pregunta":"¿Cómo se le dice a una persona tonta",
+        "respuestas" :["Boludo","Veterano","Gafo","Campeón"],
+        "respuesta":"Gafo",
+    },
+    {
+        "id":21,
+        "pregunta":"¿Cúal es la expresion que significa 'mucho, en gran medida, en exceso'?",
+        "respuestas" :["Bastantísimo","Boleta","Bernáculo","Burda"],
+        "respuesta":"Burda",
+    },
+    {
+        "id":22,
+        "pregunta":"¿Cúal es la expresion que significa 'Tonto, imbécil. Estúpido. Patán.'. También es un insulto?",
+        "respuestas" :["Boludo","Gilipollas","Cabeza de huevo","Eunuco"],
+        "respuesta":"Cabeza de huevo",
+    },
+    {
+        "id":23,
+        "pregunta":"¿Cúal es la expresion que significa 'Tomar licor'?",
+        "respuestas" :["Pegarle a la birra","Tabaco de brujo"," Bebe marico","Caerse a palos"],
+        "respuesta":"Caerse a palos",
+    },
+    {
+        "id":24,
+        "pregunta":"¿Cúal es la palabra que denota 'aburrimiento'?",
+        "respuestas" :["Calihueva","Mangonea","Fanfarronea","Tomala"],
+        "respuesta":"Calihueva",
+    },
+    {
+        "id":25,
+        "pregunta":"¿Cómo se le dice a una persona descarada, sin escrúpulos?",
+        "respuestas" :["Descarozila","Poker face","Cara de hampa","Cara e tabla"],
+        "respuesta":"Cara e tabla",
+    },
+    {
+        "id":26,
+        "pregunta":"¿Cómo se le dice a un muchacho de entre unos 5 y 7 años de edad.?",
+        "respuestas" :["Carajito","Bebecito","Señorito","Cara e niño"],
+        "respuesta":"Carajito",
+    },
+    {
+        "id":27,
+        "pregunta":"¿Cómo se le dice a una persona de piel blanca y cabello lacio?",
+        "respuestas" :["Albino","Catire","Gaban","Guatire"],
+        "respuesta":"Catire",
+    },
+    {
+        "id":28,
+        "pregunta":"¿Cúal es la expresión que significa 'burlarse de alguien'?",
+        "respuestas" :["Remontada","Burlon","Chantaje","Chalequeo"],
+        "respuesta":"Chalequeo",
+    },
+    {
+        "id":29,
+        "pregunta":"¿Cúal es la expresión que significa 'niño,joven, amigo, una persona desconocida'?",
+        "respuestas" :["Perro","Primo","Chamo","Compa"],
+        "respuesta":"Chamo",
     },
 
     // {

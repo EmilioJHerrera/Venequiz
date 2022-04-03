@@ -3,7 +3,13 @@ import './App.css';
 import Preguntas from './components/Preguntas';
 import Splash from './components/Splash';
 
+
+
 function App() {
+ 
+  
+ 
+ 
   return (
     <div>
       {/* <Preguntas/> */}
