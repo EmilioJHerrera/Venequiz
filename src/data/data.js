@@ -177,7 +177,7 @@ const data =[
     },
     {
         "id":27,
-        "pregunta":"¿Cómo se le dice a una persona de piel blanca y cabello lacio?",
+        "pregunta":"¿Cómo se le dice a una persona de piel blanca y cabello lacio y de color claro?",
         "respuestas" :["Albino","Catire","Gaban","Guatire"],
         "respuesta":"Catire",
     },
@@ -192,6 +192,30 @@ const data =[
         "pregunta":"¿Cúal es la expresión que significa 'niño,joven, amigo, una persona desconocida'?",
         "respuestas" :["Perro","Primo","Chamo","Compa"],
         "respuesta":"Chamo",
+    },
+    {
+        "id":30,
+        "pregunta":"¿Cúal es la expresión es sinónimo de “bueno”, “bonito”, “agradable”...también suele usarse para indicar aceptación?",
+        "respuestas" :["Buenaza","Bacano","Chévere","Agraciado"],
+        "respuesta":"Chévere",
+    },
+    {
+        "id":31,
+        "pregunta":"¿Cúal es la expresión para algo torcido y deforme?",
+        "respuestas" :["Choreto","Malformado","Rarito","Tuerto"],
+        "respuesta":"Choreto",
+    },
+    {
+        "id":32,
+        "pregunta":"¿Cúal es la expresión para ladron, maleante?",
+        "respuestas" :["Choper","Choro","Chocon","Cholante"],
+        "respuesta":"Choro",
+    },
+    {
+        "id":33,
+        "pregunta":"¿Cúal es la expresión para dinero a obtener por trabajo, negociaciones o herencias",
+        "respuestas" :["Cobrizo","Ahorros","Churupos","Billetes"],
+        "respuesta":"Churupos",
     },
 
     // {

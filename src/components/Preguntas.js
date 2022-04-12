@@ -45,9 +45,13 @@ const Preguntas = ({puntos, setPuntos, setGameOver}) => {
     }
 
 
-//     useEffect(()=>{
-// console.log('cambio numero')
-//     },[numero])
+    useEffect(()=>{
+        //evalua si el puntaje es igual a todas las preguntas y termina el juego
+        if(data.length-1===puntos){
+           
+            setGameOver(true);
+          }
+    },[numero])
   const variants = {
       visible: {opacity:1},
       hidden: {opacity:0}
